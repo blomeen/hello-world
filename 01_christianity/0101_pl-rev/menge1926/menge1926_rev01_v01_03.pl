@@ -19,7 +19,7 @@ use warnings;
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
-# Mon Dec 17 20:20:19 UTC 2018
+# Date: Mon Dec 17 21:03:45 UTC 2018
 #
 
 print "\nMenge-Bibel 1926; Offenbarung 1, (1) bis (3).\n\n";
